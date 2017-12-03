@@ -1,6 +1,6 @@
 # 将知乎问答转换成电子书推送到kindle的web服务
 
-web 服务基于 flask, redis
+web 服务基于 flask, redis, python2.7.13
 
 `python manage.py runserver` 
 
